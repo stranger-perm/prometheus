@@ -69,9 +69,9 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## 🧷 Архивирование и сохранность
 
-- GitHub: [ссылка на raw версию]
-- Web Archive: [web.archive.org/...]
-
+- GitHub: [https://github.com/stranger-perm/prometheus/blob/main/prior-art/prometheus-core.md]
+- Web Archive: [https://web.archive.org/web/20250328083427/https://stranger-59.ru/2025/03/28/prometheus_start/]
+- PDF: [https://stranger-59.ru/2025-03-28_Prometheus_Prior_Art.pdf]
 ---
 
 ## ✍️ Заключение
